@@ -64,10 +64,6 @@
                 <h1>Beyond uncomplete story</h1>
                 <h2> where the sorrow bring happiness along</h2>
             </div>
-            <button class="navbar-toggler pe-0" type="button" data-bs-toggle="offcanvas"
-                data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-                <span class="navbar-toggler-icon"></span>
-            </button>
         </section>
         {{-- end hero section --}}
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
